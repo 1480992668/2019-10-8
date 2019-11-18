@@ -109,6 +109,7 @@
         git remote add origin（这个名字是可以改变的） git@github.com:nizp/19-11-01.git
 
     6.git pull origin master  (保证能够成功上传，进行远程和本地相合并)
+    https://github.com/1480992668/MEI-MEI-DA.git
 
     7.git push origin master   上传（第一次会出现让输入用户名和密码）
 
